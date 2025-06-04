@@ -100,3 +100,4 @@ E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja.Tests\obj\Debug\net8.0\refint\Ada.Lo
 E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja.Tests\obj\Debug\net8.0\Ada.Loja.Tests.pdb
 E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja.Tests\obj\Debug\net8.0\Ada.Loja.Tests.genruntimeconfig.cache
 E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja.Tests\obj\Debug\net8.0\ref\Ada.Loja.Tests.dll
+e:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja.Tests\obj\Debug\net8.0\Ada.Loja.Tests.sourcelink.json

@@ -9,3 +9,4 @@ E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\Ada.Loja.dll
 E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\refint\Ada.Loja.dll
 E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\Ada.Loja.pdb
 E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\ref\Ada.Loja.dll
+e:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\Ada.Loja.sourcelink.json
