@@ -43,7 +43,7 @@ Em um sistema de pagamento online, a classe `PaymentProcessor` é responsável p
    - **Incorreto**
    - Adicionar métodos específicos do `PaymentProcessor` na classe `PaymentGateway` viola o DIP, pois isso cria uma dependência direta e específica entre as duas classes. Isso torna o código menos modular e mais difícil de manter, além de dificultar a reutilização do código.
 
-3. **Criar uma interface `PaymentGatewayInterface` e fazer com que Paymen`tProcessor dependa da interface em vez da classe concreta `PaymentGateway`.**
+3. **Criar uma interface `PaymentGatewayInterface` e fazer com que `PaymentProcessor` dependa da interface em vez da classe concreta `PaymentGateway`.**
 
    - **Correto**
    - Esta é a abordagem correta para aplicar o DIP. Ao criar uma interface `PaymentGatewayInterface`, `PaymentProcessor` pode depender dessa abstração, permitindo que diferentes implementações de gateways de pagamento sejam utilizadas sem modificar o código do processador de pagamentos. Isso melhora a flexibilidade e a testabilidade do sistema.
