@@ -11,4 +11,9 @@ Este repositório reúne conceitos fundamentais sobre princípios **SOLID** e pa
 🔹 **DIP (Dependency Inversion Principle)** - Dependa de abstrações, não de implementações concretas.  
 
 ## Objetivo do Repositório
+
 Este repositório tem como propósito demonstrar na prática a aplicação dos princípios **SOLID** e padrões de projeto, auxiliando desenvolvedores a escreverem código mais **flexível**, **manutenível** e **escalável**.
+
+## original
+
+Repositório original em https://github.com/vmussak/solid-examples
