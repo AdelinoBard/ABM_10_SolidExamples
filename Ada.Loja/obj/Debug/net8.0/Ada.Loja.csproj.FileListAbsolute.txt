@@ -1,0 +1,11 @@
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\bin\Debug\net8.0\Ada.Loja.deps.json
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\bin\Debug\net8.0\Ada.Loja.dll
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\bin\Debug\net8.0\Ada.Loja.pdb
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\Ada.Loja.GeneratedMSBuildEditorConfig.editorconfig
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\Ada.Loja.AssemblyInfoInputs.cache
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\Ada.Loja.AssemblyInfo.cs
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\Ada.Loja.csproj.CoreCompileInputs.cache
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\Ada.Loja.dll
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\refint\Ada.Loja.dll
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\Ada.Loja.pdb
+E:\ABM_GitHub\ABM_10_SolidExamples\Ada.Loja\obj\Debug\net8.0\ref\Ada.Loja.dll
